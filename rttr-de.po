@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Return To The Roots\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-02-10 20:11+0100\n"
-"PO-Revision-Date: 2017-12-21 19:09+0100\n"
+"PO-Revision-Date: 2019-11-02 20:23+0100\n"
 "Last-Translator: Return To The Roots Team <sf-team@siedler25.de>\n"
 "Language-Team: Return To The Roots <sf-team@siedler25.org>\n"
 "Language: de_DE\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2017-12-16 20:00+0000\n"
-"X-Generator: Poedit 2.0.4\n"
+"X-Generator: Poedit 2.1.1\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-Basepath: ../../src\n"
 
@@ -719,9 +719,8 @@ msgid "Change metalworks behavior on zero"
 msgstr "Ändere das Verhalten des Schlossers bei Null"
 
 #: libs/s25main/addons/AddonCoinsCapturedBld.h:34
-#, fuzzy
 msgid "Change the coin setting for captured military buildings."
-msgstr "Verhindert die Zerstörung militärischer Gebäude"
+msgstr "Ändert optional die Einstellungen für Goldmünzen in eroberten Militärgebäuden."
 
 #: libs/s25main/addons/AddonDefenderBehavior.h:34
 msgid ""
@@ -828,7 +827,7 @@ msgstr "Münzen"
 
 #: libs/s25main/addons/AddonCoinsCapturedBld.h:33
 msgid "Coins on captured buildings"
-msgstr ""
+msgstr "Ändern der Goldmünzen in eroberten Militärgebäuden."
 
 #: libs/s25main/ingameWindows/iwBaseWarehouse.cpp:73
 msgid "Collect"
@@ -1899,9 +1898,8 @@ msgid "Jump finished (%1$.3g seconds)."
 msgstr "Schnellvorlauf beendet (%1$.3g Sekunden)."
 
 #: libs/s25main/addons/AddonCoinsCapturedBld.h:36
-#, fuzzy
 msgid "Keep setting"
-msgstr "Einstellungen"
+msgstr "keine Änderung"
 
 #: libs/s25main/desktops/dskGameInterface.cpp:679
 #: libs/s25main/desktops/dskOptions.cpp:578
